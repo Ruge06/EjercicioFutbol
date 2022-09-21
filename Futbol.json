@@ -1,16 +1,13 @@
 {
     "Nombre":"Asociación-del-Futbol-Argentino",
-    "NombrePais":"Argentina",
-    "NombreAlternativo":
-        {
-            "Nombre1":"LaCeleste"
-        },
+    "Nombre_Pais":"Argentina",
+    "Nombre_Alternativo":
+        ["LaCeleste"],
+
     "Color":
-        {
-            "Color1":"Celeste",
-            "Color2":"Blanco"
-        },
-    "TitulosGanados":
+        ["Celeste","Blanco"],
+        
+    "Titulos_Ganados":
     [
         {
             "Titulo":"Mundial-Sub20-Holanda",
@@ -25,14 +22,14 @@
             "Año":2021
         }
     ],
-    "NombreCapitan":"LeonelMessi",
-    "NombreEntrenador":"Lionel Scaloni",
+    "Nombre_Capitan":"LeonelMessi",
+    "Nombre_Entrenador":"Lionel Scaloni",
     "Logo":"https://i.pinimg.com/originals/27/d2/66/27d266e4f538007106ca950f1cf3ec02.jpg",
     "Goleadores":
     [
         {
             "Nombre":"LeonelMessi",
-            "NumeroGoles":"6"
+            "Numero_Goles":"6"
         }
     ],
     "Estadio":
@@ -51,7 +48,7 @@
             "Apellido":"Martinez",
             "Edad":30,
             "Altura":195,
-            "Lugar de nacimiento":"MarDelPlataa",
+            "Lugar_de_nacimiento":"MarDelPlataa",
             "Posición":"Portero",
             "Club":"AstonVila",
             "Numero":1
@@ -61,7 +58,7 @@
             "Apellido":"Montiel",
             "Edad":25,
             "Altura":175,
-            "Lugar de nacimiento":"BuenosAires",
+            "Lugar_de_nacimiento":"BuenosAires",
             "Posición":"Defensa",
             "Club":"Sevilla",
             "Numero":2
@@ -71,7 +68,7 @@
             "Apellido":"Romero",
             "Edad":27,
             "Altura":188,
-            "Lugar de nacimiento":"Cordoba",
+            "Lugar_de_nacimiento":"Cordoba",
             "Posición":"Defensa",
             "Club":"Tottenham",
             "Numero":17
@@ -81,7 +78,7 @@
             "Apellido":"Otamendi",
             "Edad":34,
             "Altura":183,
-            "Lugar de nacimiento":"ElTalar",
+            "Lugar_de_nacimiento":"ElTalar",
             "Posición":"Defensa",
             "Club":"SportLisbos",
             "Numero":19
@@ -91,7 +88,7 @@
             "Apellido":"Senesi",
             "Edad":25,
             "Altura":185,
-            "Lugar de nacimiento":"Concordia",
+            "Lugar_de_nacimiento":"Concordia",
             "Posición":"Defensa",
             "Club":"AthleticFootball",
             "Numero":25
@@ -101,7 +98,7 @@
             "Apellido":"DiMaria",
             "Edad":34,
             "Altura":180,
-            "Lugar de nacimiento":"Rosario",
+            "Lugar_de_nacimiento":"Rosario",
             "Posición":"Mediocampo",
             "Club":"Juventus",
             "Numero":11
@@ -111,7 +108,7 @@
             "Apellido":"Rodriguez",
             "Edad":28,
             "Altura":185,
-            "Lugar de nacimiento":"SaenzPeña",
+            "Lugar_de_nacimiento":"SaenzPeña",
             "Posición":"Mediocampo",
             "Club":"RealBetis",
             "Numero":18
@@ -121,7 +118,7 @@
             "Apellido":"DePaul",
             "Edad":28,
             "Altura":180,
-            "Lugar de nacimiento":"Sarandi",
+            "Lugar_de_nacimiento":"Sarandi",
             "Posición":"Mediocampo",
             "Club":"AtleticoDeMadrid",
             "Numero":5
@@ -131,7 +128,7 @@
             "Apellido":"Paredes",
             "Edad":28,
             "Altura":180,
-            "Lugar de nacimiento":"San Justo",
+            "Lugar_de_nacimiento":"San Justo",
             "Posición":"Mediocampo",
             "Club":"Juventus",
             "Numero":32
@@ -141,7 +138,7 @@
             "Apellido":"Messi",
             "Edad":35,
             "Altura":169,
-            "Lugar de nacimiento":"Rosario",
+            "Lugar_de_nacimiento":"Rosario",
             "Posición":"Delantero",
             "Club":"ParisSaint-German",
             "Numero":10
@@ -151,7 +148,7 @@
             "Apellido":"Martinez",
             "Edad":25,
             "Altura":174,
-            "Lugar de nacimiento":"BahiaBlanca",
+            "Lugar_de_nacimiento":"BahiaBlanca",
             "Posición":"Delantero",
             "Club":"InterDeMilan",
             "Numero":23
